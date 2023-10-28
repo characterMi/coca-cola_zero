@@ -1,0 +1,5 @@
+export { default as Button } from "./Button"
+export { default as DescriptionText } from "./DescriptionText"
+export { default as StrokeText } from "./StrokeText"
+export { default as AboutText } from "./AboutText"
+export { default as AboutText2 } from "./AboutText2"
