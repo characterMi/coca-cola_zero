@@ -9,7 +9,7 @@ import { modelScrollAnimation } from "./lib/scroll-animation";
 
 function App() {
   const [start, setStart] = useState(false)
-  const model = useGLTF('/models/coca-coka_can/scene.gltf')
+  const model = useGLTF('/coca-cola_zero/models/coca-coka_can/scene.gltf')
   useEffect(() => {
     window.scrollTo(0, 0)
     gsap.registerPlugin(ScrollTrigger)
