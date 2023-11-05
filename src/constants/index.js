@@ -1,3 +1,5 @@
+import { instagram, facebook, linkedin, twitter } from "../assets";
+
 export const navLinks = [
     {
         name: "Shop Now"
@@ -35,3 +37,37 @@ export const flavours = [
         number: "5."
     },
 ]
+
+// FOOTER SECTION
+export const FOOTER_LINKS = [
+    {
+      title: 'Learn More',
+      links: [
+        'About Coca-Cola',
+        'Press Releases',
+        'Environment',
+        'Jobs',
+        'Privacy Policy',
+        'Contact Us',
+      ],
+    }
+  ];
+  
+  export const FOOTER_CONTACT_INFO = {
+    title: 'Contact Us',
+    links: [
+      { label: 'Admin Officer:', value: '123-456-7890' },
+      { label: 'Email Officer:', value: 'coca-cola@gmail.com' },
+    ],
+  };
+  
+  export const SOCIALS = {
+    title: 'Social',
+    links: [
+      facebook,
+      instagram,
+      twitter,
+      linkedin
+    ],
+  };
+  

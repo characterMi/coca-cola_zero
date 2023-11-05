@@ -3,7 +3,7 @@ import { flavours } from "../constants"
 
 const RightArticle = () => {
     return (
-        <div className="w-[50%] sm:w-[40%] right-article z-20 flex flex-col mt-40 gap-10 lg:gap-40">
+        <div className="w-[50%] sm:w-[40%] right-article z-20 flex flex-col mt-40 gap-10 lg:gap-40 absolute right-0">
             <div>
                 <Button type="contained" text="#TakeATaste" cursor />
                 <AboutText>

@@ -13,7 +13,7 @@ export const modelScrollAnimation = (model) => {
         }
     })
     tl.to('.zero', {
-        y: 150,
+        y: 100,
         scrollTrigger: {
             trigger: '.zero',
             start: "top top",

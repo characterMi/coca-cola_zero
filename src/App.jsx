@@ -2,7 +2,7 @@ import gsap from "gsap";
 import Model from "./canvas/Model";
 import CameraRig from "./canvas/CameraRig";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import { Navbar, Intro, LeftArticle, RightArticle } from "./components";
+import { Navbar, Intro, LeftArticle, RightArticle, Footer } from "./components";
 import { useEffect, useState } from "react";
 import { useGLTF } from "@react-three/drei";
 import { modelScrollAnimation } from "./lib/scroll-animation";
@@ -47,6 +47,7 @@ function App() {
         <LeftArticle />
         <RightArticle />
       </section>
+      <Footer />
     </section>
   )
 }
