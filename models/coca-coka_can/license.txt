@@ -1,0 +1,11 @@
+Model Information:
+* title:	Coca-coka can
+* source:	https://sketchfab.com/3d-models/coca-coka-can-97dbe7a2af5641f48b44c09c780a39dc
+* author:	amitjadhav412 (https://sketchfab.com/amitjadhav412)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Coca-coka can" (https://sketchfab.com/3d-models/coca-coka-can-97dbe7a2af5641f48b44c09c780a39dc) by amitjadhav412 (https://sketchfab.com/amitjadhav412) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
