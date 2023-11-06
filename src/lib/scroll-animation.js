@@ -18,7 +18,7 @@ export const modelScrollAnimation = (model) => {
             trigger: '.zero',
             start: "top top",
             end: "bottom top",
-            scrub: 3,
+            scrub: 5,
 
         }
     })
@@ -28,7 +28,7 @@ export const modelScrollAnimation = (model) => {
             trigger: '.right-article',
             start: "top bottom",
             end: "bottom top",
-            scrub: 2,
+            scrub: 1,
 
         }
     })
@@ -36,9 +36,9 @@ export const modelScrollAnimation = (model) => {
         opacity: 1,
         scrollTrigger: {
             trigger: '.banner',
-            start: "top 80%",
-            end: "top center",
-            scrub: 2,
+            start: "top 60%",
+            end: "top 30%",
+            scrub: 1,
 
         }
     })

@@ -4,7 +4,7 @@ import { Button, DescriptionText } from "./helpers";
 const Intro = () => {
     return (
         <>
-            <h1 className="text-[100px] sm:text-[150px] md:text-[250px] lg:text-[350px] xl:text-[450px] zero">ZERO</h1>
+            <h1 className="zero font-bold tracking-[.5rem]">ZERO</h1>
             <img
                 loading="lazy"
                 src={Ice}

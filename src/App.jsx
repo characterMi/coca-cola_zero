@@ -34,7 +34,7 @@ function App() {
   }, [start])
   return (
     <section className="app sm:px-6 md:px-12 px-2">
-      <section className="camera w-[300px] h-[250px] sm:w-[400px] sm:h-[350px] lg:w-[600px] lg:h-[550px] fixed left-[50%] translate-x-[-50%] z-10">
+      <section className="object w-[300px] h-[250px] sm:w-[400px] sm:h-[350px] lg:w-[600px] lg:h-[550px] fixed left-[50%] translate-x-[-50%] z-10">
         <CameraRig start={start} setStart={setStart}>
           <Model model={model} />
         </CameraRig>

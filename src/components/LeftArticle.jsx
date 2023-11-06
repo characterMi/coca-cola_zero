@@ -19,7 +19,7 @@ const LeftArticle = () => {
             <img
                 src={Poster}
                 alt="Poster"
-                className="w-[200px] h-[200px] md:w-[300px] md:h-[300px] object-fill rounded-[20px] mt-20 mb-[50px] sm:mb-[100px] lg:mb-[200px]"
+                className="w-[100%] sm:w-[300px] object-contain rounded-[20px] mt-20 mb-[50px] sm:mb-[100px] lg:mb-[200px]"
             />
             <StrokeText>Not your <br /> Average<br /> Moon juice</StrokeText>
         </div>

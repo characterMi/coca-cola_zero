@@ -58,7 +58,7 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <p className='regular-14 w-full text-center py-10 border-t border-[#3e3e3e] text-gray-30'>{new Date().getFullYear()} Coca-Cola | All rights reserved</p>
+        <p className='regular-14 w-full text-center py-10 border-t border-[#3e3e3e] text-gray-30'>&copy; {new Date().getFullYear()} Coca-Cola | All rights reserved</p>
       </div>
     </footer>
   )
