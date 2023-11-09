@@ -1,8 +1,15 @@
-# React + Vite
+# over view
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://github.com/characterMi/coca-cola_zero/blob/main/coca-cola_zero.png" alt="Image" />
 
-Currently, two official plugins are available:
+# Coca-Cola Zero
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A modern UI/UX website that showcases a 3D model and the Power of Design. take a [Look](https://charactermi.github.io/coca-cola_zero)
+
+# Technologies
+
+<p>
+  <img src="https://github.com/characterMi/characterMi/blob/main/icons8-react-native.svg" width="46" height="46" alt="React" />
+  <img src="https://github.com/characterMi/characterMi/blob/main/threeJs-icon.png" width="46" height="46" alt="three.js" />
+  <img src="https://github.com/characterMi/characterMi/blob/main/tailwind.svg" width="46" height="46" alt="Tailwind" />
+</p>
